@@ -10,8 +10,8 @@ PORT = 12000
 ANALYZER_URL = f"http://{NETWORK}:{PORT}{ANALYSE_COMPANY}"
 
 START_MESSAGE = """
-Welcome to the Company Analyzer Bot 👀
-Send me a message with company name and I will analyze it for you ☺️
+Welcome to the Company Analysis Agent 👀
+Send me a text with company or companies and I will analyze them for you ☺️
 """
 
 WEBSITES_NA_PLACEHOLDERS = [None, "Unknown", "N/A", "null"]

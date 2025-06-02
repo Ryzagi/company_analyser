@@ -64,7 +64,7 @@ async def message_handler(message: Message) -> None:
 
 async def main() -> None:
     await dp.start_polling(bot,
-                           skip_updates=True, polling_timeout=15)
+                           skip_updates=True, polling_timeout=25)
 
 
 def main_wrapper():
