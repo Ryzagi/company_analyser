@@ -3,9 +3,9 @@ GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-05-20"
 ANALYSE_COMPANY = "/api/v1/analyse-company"
 
 # "app" for docker-compose, "localhost" for local testing
-NETWORK = "localhost"
+NETWORK = "app"
 
-PORT = 8000
+PORT = 12000
 
 ANALYZER_URL = f"http://{NETWORK}:{PORT}{ANALYSE_COMPANY}"
 
