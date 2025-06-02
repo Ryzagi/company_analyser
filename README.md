@@ -33,7 +33,7 @@ git clone https://github.com/TimaAngelo/textanalyzer.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd textanalyzer
+cd company_analyser
 ```
 3. Install dependencies:
 ```bash
