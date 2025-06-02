@@ -1,6 +1,6 @@
 # Company Analysis Telegram Bot
 
-A system for analyzing companies using Gemini AI and providing results through a Telegram bot interface. You can find the bot at [@Company_Analyzer_Bot](https://t.me/CompanyAnalysisBot).
+A system for analyzing companies using Gemini AI and providing results through a Telegram bot interface. You can find the bot at [@CompanyAnalysisBot](https://t.me/CompanyAnalysisBot).
 
 ## Overview
 
